@@ -36,4 +36,5 @@ pak konec `research_log.md` a sekci „Rozpracováno“.
 ## Rozpracováno (aktualizovat průběžně)
 - Web: https://rodokmen-pinkavovych-a-svecovych.netlify.app (přihlášení otázkou na psa). Aktualizace: `cd web && NODE_USE_ENV_PROXY=1 npm run nasadit` (v cloudu; v novém kontejneru nejdřív `npm install` a znovu přihlásit Netlify přes `login --request`).
 - Švecovi/Bendovi: matriky Salačovy Lhoty (fara Lukavec) po 1876 nejsou online → čekáme na rodinu (místo narození Marie 1921, doklady, hrob) nebo žádost na matriční úřad (`archivni_dotazy.md`).
-- Další větve: Pinkavovi (rodiče dědečka Oldřicha), rod otce (Zubajovi) – zatím nic nevíme.
+- Pinkavovi: pradědeček Oldřich * 1909 Dobrošov u Náchoda; Pinkavové hlavně v sousední Dol. Radechové (index N Náchod 1867–1899 prošlý). Čeká se na výpis z matriky Náchod (jména rodičů). Krausovi: Růžena * 19. 8. 1919 Krupka (u Teplic?) – SOA Litoměřice byl 25. 10. mimo provoz.
+- Rod otce (Zubajovi, Lučivná, okr. Poprad) – zatím nic nevíme.
