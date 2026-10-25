@@ -5,3 +5,6 @@ Jen technické věci, žádné údaje o rodině. Nic se neposílá automaticky �
 a vy je zkopírujete do e-mailu na sarsonj@gmail.com. Klidně připište i vlastní zkušenosti – užitečné změny autor rád
 zapracuje do skillu, aby je měli i ostatní. Děkujeme!
 
+
+- 2026-10-25: Skill nainstalovaný jako „synced“ (anthropic-skills:rodokmen v cloudu claude.ai) obsahoval jen SKILL.md – chyběly tools/, template/, reference/, VERZE. Vyřešeno instalací pluginu z marketplace (sarsonj/rodokmen-skill, verze 0.5.0). Do SKILL.md by se hodila poznámka, co dělat, když SKILL_DIR nemá tools/.
+- Cloudové prostředí claude.ai: síťová politika ve výchozím stavu blokuje archivní portály (ARON: 403 od proxy) a chybí `magick` (je jen ImageMagick 6 `convert`). Kontejner je dočasný – projekt je třeba ukládat do repozitáře na GitHubu.
