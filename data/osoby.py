@@ -19,11 +19,16 @@
 
 P = {
     1: dict(n="Denisa Zubajová", y="* 1986", st="fam", f=[], sex="F", note="Žijící – údaje jen základní."),
+    2: dict(n="Josef Zubaj", y="* 1961", st="fam", f=[], note="Žijící – údaje jen základní. Pochází ze Slovenska."),
     3: dict(n="Ivana Pinkavová", y="* 1965", st="fam", f=[], note="Žijící – údaje jen základní."),
     6: dict(n="Oldřich Pinkava", y="* 1942", st="fam", f=[],
             note="Žijící – údaje jen základní."),
     7: dict(n="Ludmila Švecová", y="1942–2017", st="fam", f=["* 12. 12. 1942 Praha", "× Oldřich Pinkava", "† 17. 7. 2017"],
             note="Údaje od rodiny."),
+    12: dict(n="Oldřich Pinkava", y="1909–1987", st="fam", f=["* 9. 6. 1909", "† 8. 8. 1987"],
+             note="Údaje od rodiny. Místo narození a úmrtí zatím neznámé."),
+    13: dict(n="Růžena (rodné příjmení neznámé)", y="1919–1993", st="fam", f=["* 19. 8. 1919", "× Oldřich Pinkava", "† 19. 4. 1993"],
+             note="Údaje od rodiny. Rodné příjmení a místo narození zatím neznámé."),
     14: dict(n="František Švec", y="1912–1996", st="fam",
              f=["* 14. 9. 1912", "řidič lokomotivy", "× 1940 Marie Bendová", "† 5. 9. 1996 Praha"],
              note="Údaje od rodiny. Místo narození neznámé; „Praha“ je nejspíš místo úmrtí. S manželkou žili v Salačově Lhotě (okr. Pelhřimov)."),

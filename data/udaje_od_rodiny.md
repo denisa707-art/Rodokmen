@@ -12,3 +12,7 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - **Marie Švecová, roz. Bendová**: * 23. 11. 1921, † 17. 7. 2007 Praha (od uživatele 25. 10. 2026). POZOR: dříve uváděn rok 1912 – nejspíš záměna s Františkem (* 1912). Místo narození a sňatku rodina neví.
 - **Výchozí osoba**: Denisa Zubajová, * 1986. Maminka **Ivana Zubajová, roz. Pinkavová**, * 1965. Dědeček **Oldřich Pinkava**, * 5. 12. 1942 Praha (manžel Ludmily Švecové).
 - Dědeček **Oldřich Pinkava** žije (od Denisy 25. 10. 2026) – na webu jen jméno a rok.
+
+## Pinkavovi a Zubajovi (od Denisy, 25. 10. 2026)
+- Rodiče dědečka Oldřicha: **Oldřich Pinkava**, * 9. 6. 1909, † 8. 8. 1987; **Růžena Pinkavová**, * 19. 8. 1919, † 19. 4. 1993 (rodné příjmení neznámé). Místa neznámá.
+- Tatínek **Josef Zubaj**, * 4. 10. 1961, pochází ze Slovenska – Lučivná, okres Poprad. (Žijící – na webu jen jméno a rok.)
