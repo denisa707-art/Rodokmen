@@ -18,4 +18,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Tatínek **Josef Zubaj**, * 4. 10. 1961, pochází ze Slovenska – Lučivná, okres Poprad. (Žijící – na webu jen jméno a rok.)
 - Pradědeček **Oldřich Pinkava** (* 9. 6. 1909) pocházel z **Dobrošova u Náchoda** (Denisa, 25. 10. 2026).
 - Prababička **Růžena Pinkavová** (* 19. 8. 1919), maminka dědečka Oldřicha: rodné příjmení **Krausová** (dohledala Denisa, 25. 10. 2026).
-- Prababička Růžena Krausová pocházela z **Krupky** (Denisa, 25. 10. 2026) – nejspíš Krupka u Teplic (ověřit).
+- Prababička Růžena Krausová pocházela z **Krupky u Teplic** (Denisa, 25. 10. 2026, potvrzeno).

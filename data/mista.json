@@ -5,5 +5,12 @@
   "lat": 50.4028,
   "lon": 16.2007,
   "osm": "Dobrošov, Náchod, okres Náchod, Královéhradecký kraj, Česko"
+ },
+ "Krupka": {
+  "re": "Krupk",
+  "dotaz": "Krupka, Česko",
+  "lat": 50.6847,
+  "lon": 13.8578,
+  "osm": "Krupka, okres Teplice, Ústecký kraj, Česko"
  }
 }
