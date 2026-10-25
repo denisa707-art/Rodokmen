@@ -16,3 +16,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 ## Pinkavovi a Zubajovi (od Denisy, 25. 10. 2026)
 - Rodiče dědečka Oldřicha: **Oldřich Pinkava**, * 9. 6. 1909, † 8. 8. 1987; **Růžena Pinkavová**, * 19. 8. 1919, † 19. 4. 1993 (rodné příjmení neznámé). Místa neznámá.
 - Tatínek **Josef Zubaj**, * 4. 10. 1961, pochází ze Slovenska – Lučivná, okres Poprad. (Žijící – na webu jen jméno a rok.)
+- Pradědeček **Oldřich Pinkava** (* 9. 6. 1909) pocházel z **Dobrošova u Náchoda** (Denisa, 25. 10. 2026).

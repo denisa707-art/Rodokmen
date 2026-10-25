@@ -1,1 +1,9 @@
-{}
+{
+ "Dobrošov": {
+  "re": "Dobro",
+  "dotaz": "Dobrošov, Česko",
+  "lat": 50.4028,
+  "lon": 16.2007,
+  "osm": "Dobrošov, Náchod, okres Náchod, Královéhradecký kraj, Česko"
+ }
+}
