@@ -1,19 +1,28 @@
 {
- "nazev": "",
- "popis": "",
+ "nazev": "Rodokmen Zubajových",
+ "popis": "Předci Denisy Zubajové – Pinkavovi, Švecovi a Bendovi",
  "zapati": "Dohledáno v digitalizovaných matrikách státních oblastních archivů",
- "kontakt": {"jmeno": "", "email": ""},
+ "kontakt": {
+  "jmeno": "",
+  "email": ""
+ },
  "prihlaseni": {
   "uvod": "Tenhle web je jen pro rodinu a příbuzné.",
   "otazka": "",
   "odpoved": ""
  },
  "uvod": {
-  "nadpis": "",
-  "odstavce": [],
+  "nadpis": "Odkud pocházíme",
+  "odstavce": [
+   "Rodokmen teprve vzniká. Zatím v něm jsou čtyři generace podle vyprávění rodiny; postupně je ověřujeme v matrikách."
+  ],
   "foto": "",
   "foto_popis": ""
  },
- "pribeh": {"menu": "", "rod": 8, "tlacitko": ""},
+ "pribeh": {
+  "menu": "",
+  "rod": 8,
+  "tlacitko": ""
+ },
  "zajimavosti_na_uvodu": []
 }
