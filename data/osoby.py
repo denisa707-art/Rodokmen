@@ -20,8 +20,8 @@
 P = {
     1: dict(n="Denisa Zubajová", y="* 1986", st="fam", f=[], sex="F", note="Žijící – údaje jen základní."),
     3: dict(n="Ivana Pinkavová", y="* 1965", st="fam", f=[], note="Žijící – údaje jen základní."),
-    6: dict(n="Oldřich Pinkava", y="* 1942", st="fam", f=["* 5. 12. 1942 Praha"],
-            note="Údaj od rodiny. Zda žije, zatím nevíme – do té doby jen základní údaje."),
+    6: dict(n="Oldřich Pinkava", y="* 1942", st="fam", f=[],
+            note="Žijící – údaje jen základní."),
     7: dict(n="Ludmila Švecová", y="1942–2017", st="fam", f=["* 12. 12. 1942 Praha", "× Oldřich Pinkava", "† 17. 7. 2017"],
             note="Údaje od rodiny."),
     14: dict(n="František Švec", y="1912–1996", st="fam",
