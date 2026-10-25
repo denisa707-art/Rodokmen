@@ -19,3 +19,10 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Pradědeček **Oldřich Pinkava** (* 9. 6. 1909) pocházel z **Dobrošova u Náchoda** (Denisa, 25. 10. 2026).
 - Prababička **Růžena Pinkavová** (* 19. 8. 1919), maminka dědečka Oldřicha: rodné příjmení **Krausová** (dohledala Denisa, 25. 10. 2026).
 - Prababička Růžena Krausová pocházela z **Krupky u Teplic** (Denisa, 25. 10. 2026, potvrzeno).
+
+## Strom z MyHeritage (Denisin strom „Zubajová“, export GEDCOM 25. 10. 2026 → dokumenty/myheritage_zubajova_2026-10-25.ged)
+- Navíc oproti dosavadním údajům: Oldřich Pinkava (1909) † Praha; Růžena Krausová † Praha.
+- Tatínkova strana: dědeček **Július Zubaj**, * 27. 3. 1929, † 16. 7. 2008 Lučivná; babička **Helena Pačajová**, * 30. 3. 1936, † 26. 10. 2021 Kolín, pohřbena 30. 10. 2021 Lučivná. Ve stromu je Július připojen přes Smart Match z cizího stromu (Čonka Web Site), Helena přes Person Discovery.
+- Rodiče Júlia podle cizího stromu: Koloman Gaži († 1978) a Rozária Gažiová; sourozenci Anna Gažiová (1941–1978), Koloman Zubaj, Ilona Zubajová, Bela Gaži. Rozdílná příjmení (Gaži × Zubaj) – ověřit.
+- Rodiče Heleny: Ján Pačaj a Mária (Person Discovery).
+- Strom obsahuje i žijící příbuzné (maminčina sestra a její rodina) – na web nepatří.
