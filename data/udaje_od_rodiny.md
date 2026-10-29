@@ -26,3 +26,4 @@ Co víme z vyprávění a rodinných dokumentů – kdo to řekl / odkud to je a
 - Rodiče Júlia podle cizího stromu: Koloman Gaži († 1978) a Rozária Gažiová; sourozenci Anna Gažiová (1941–1978), Koloman Zubaj, Ilona Zubajová, Bela Gaži. Rozdílná příjmení (Gaži × Zubaj) – ověřit.
 - Rodiče Heleny: Ján Pačaj a Mária (Person Discovery).
 - Strom obsahuje i žijící příbuzné (maminčina sestra a její rodina) – na web nepatří.
+- Rodiče pradědečka Oldřicha Pinkavy (* 1909): **„Ana“ a „Standa“** – tj. nejspíš Anna a Stanislav Pinkavovi (Denisa, 29. 10. 2026; přepis jmen je můj výklad).
