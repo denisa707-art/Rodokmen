@@ -12,5 +12,19 @@
   "lat": 50.6847,
   "lon": 13.8578,
   "osm": "Krupka, okres Teplice, Ústecký kraj, Česko"
+ },
+ "Dolní Radechová": {
+  "re": "Dolní Radechov",
+  "dotaz": "Dolní Radechová, Česko",
+  "lat": 50.4385,
+  "lon": 16.1519,
+  "osm": "Dolní Radechová, okres Náchod, Královéhradecký kraj, 549 11, Česko"
+ },
+ "Chcebuz": {
+  "re": "Chceb",
+  "dotaz": "Chcebuz, Česko",
+  "lat": 50.4838,
+  "lon": 14.4238,
+  "osm": "Chcebuz, Štětí, okres Litoměřice, Ústecký kraj, 411 73, Česko"
  }
 }
