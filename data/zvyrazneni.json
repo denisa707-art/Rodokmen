@@ -10,5 +10,29 @@
   ],
   "status": "ok",
   "note": ""
+ },
+ "dolni_radechova_snatek_arnost_pinkava_vincencie_zidkova_1868": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
+ },
+ "dolni_radechova_krest_arnost_pinkava_1844": {
+  "boxes": [
+   [
+    0.0,
+    0.0,
+    1.0,
+    1.0
+   ]
+  ],
+  "status": "ok",
+  "note": ""
  }
 }
